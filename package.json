@@ -1,0 +1,14 @@
+{
+  "name": "simpleportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/main.scss dist/css/style.css"
+  },
+  "author": "Zuhran",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
